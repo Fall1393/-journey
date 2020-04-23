@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'journey',
-      home: LoginPage(),
+      home: Maps(),
       debugShowCheckedModeBanner: false,
     );
   }
